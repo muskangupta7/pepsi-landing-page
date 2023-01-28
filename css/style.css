@@ -1,6 +1,5 @@
 
 
-
 * {
     margin: 0;
     padding: 0;
@@ -11,6 +10,7 @@
     width: 100%;
     background-position: center;
     background-size: cover;
+    background-image: url(../images/images-background.jpeg);
     padding-right: 3%;
     padding-left: 5%;
     box-sizing: border-box;
