@@ -136,3 +136,53 @@ nav ul li a {
     padding-left: 60%;
     justify-content: flex-end;
 }
+.features{text-align:left;
+    color: rgb(255, 212, 212);   
+ text-align: center;
+}
+.pepsican{
+    text-align: center;
+   margin-top: 2%;
+   
+}   
+.Products{
+    text-transform: uppercase;
+    background: linear-gradient(to bottom, #0472e0 3%, #48789b 100%);
+    border-radius: 30px;
+    border: 1px solid #359aff;
+    cursor: pointer;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    padding: 12px 20px;
+    margin: 10px;
+    text-decoration: none;
+    box-shadow: 1px 4px 12px rgba(94,28,68,.15);
+    text-shadow: 0px 1px 0px #528ecc;
+    text-align: center;
+    
+}
+.social{
+    margin-bottom: 800px;
+    width: 2%;
+}
+
+.hello{
+    text-transform: uppercase;
+    background: linear-gradient(to bottom, #378de5 3%, #48789b 100%);
+    border-radius: 30px;
+    border: 1px solid #ffffff;
+    cursor: pointer;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    padding: 12px 20px;
+    margin: 10px;
+    text-decoration: none;
+    box-shadow: 1px 4px 12px rgba(94,28,68,.15);
+    text-shadow: 0px 1px 0px #528ecc;
+}
+
+
